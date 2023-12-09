@@ -1,0 +1,47 @@
+body {
+    font-family: Arial, sans-serif;
+    background: white;
+    margin: 0;
+    padding: 0;
+}
+
+h2 {
+    color: #333;
+}
+
+button {
+    padding: 10px 15px;
+    background: linear-gradient(-135deg, #c850c0, #4158d0);
+    color: #fff;
+    border: none;
+    cursor: pointer;
+}
+
+button:hover {
+    background: linear-gradient(-135deg, #c850c0, #4158d0);
+}
+
+table {
+    border-collapse: collapse;
+    width: 100%;
+    margin-top: 20px;
+}
+
+th, td {
+    border: 1px solid #ddd;
+    padding: 8px;
+    text-align: left;
+}
+
+th {
+    background: linear-gradient(-135deg, #c850c0, #4158d0);
+    color: #fff;
+}
+
+#horizontal-line {
+    background-color: white;
+    height: 5px;
+    width: auto;
+    margin-top: 20px;
+    margin-bottom: 20px;
+}
